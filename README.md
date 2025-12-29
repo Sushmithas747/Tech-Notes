@@ -34,7 +34,7 @@ It defines elements such as:
 
 HTML tells the browser **what content exists** on the page, not how it should look.
 
-### 🔹 Full Form of HTML
+### Full Form of HTML
 
 **HTML** stands for 👉 **HyperText Markup Language**
 
@@ -42,7 +42,7 @@ HTML tells the browser **what content exists** on the page, not how it should lo
 * **Markup** → Uses tags to mark elements
 * **Language** → Follows predefined rules and syntax
 
-### 🔹 History of HTML
+### History of HTML
 
 * 1989 – Invented by Tim Berners-Lee
 * 1991 – First version of HTML released
@@ -56,7 +56,7 @@ HTML tells the browser **what content exists** on the page, not how it should lo
 
 * HTML5 is the current and most widely used standard.
 
-### 🔹 Characteristics of HTML
+### Characteristics of HTML
 
 * Easy to learn and use
 * Platform independent
@@ -66,13 +66,13 @@ HTML tells the browser **what content exists** on the page, not how it should lo
 * Works with CSS and JavaScript
 * Interpreted by browsers (not compiled)
 
-### 🔹 Output in HTML
+### Output in HTML
 
 HTML does not have output methods like programming languages.
 
 * The output of HTML is the **rendered webpage displayed by the browser** after interpreting HTML tags.
 
-## 🔹 HTML ELEMENTS (Expanded Explanation)
+## HTML ELEMENTS (Expanded Explanation)
 
 An HTML element is the fundamental building block of a webpage.
 It tells the browser what type of content it is and how it should behave.
@@ -88,7 +88,7 @@ html
 
  Some elements are **container elements**, while some are **void elements** (no closing tag, e.g., `<img>`, `<br>`, `<input>`).
 
-## 🔹 TYPES OF ELEMENTS
+## TYPES OF ELEMENTS
 
 ### 1. Block-Level Elements
 
@@ -105,7 +105,7 @@ html
 
 * Browsers stack block elements vertically.
 
-### 2️⃣ Inline-Level Elements
+### 2️. Inline-Level Elements
 
 **Characteristics:**
 
@@ -120,7 +120,7 @@ html
 
 * Inline elements flow horizontally inside text.
 
-## 🔹 ATTRIBUTES (Expanded)
+## ATTRIBUTES (Expanded)
 
 Attributes provide extra information about an element.
 
@@ -133,7 +133,7 @@ html
 * Improve accessibility (`alt`, `title`)
 * Enable styling & scripting (`id`, `class`)
 
-## 🔹 ANCHOR TAG (`<a>`)
+## ANCHOR TAG (`<a>`)
 
 Used for navigation.
 
@@ -151,25 +151,25 @@ Values of `target`:
 
 NOTE: Anchor tags are inline elements by default.
 
-## 🔹 MEDIA TAGS
+## MEDIA TAGS
 
-### 🖼 Image (`<img>`)
+### Image (`<img>`)
 
 * Self-closing tag
 * Uses `src` and `alt`
 * Important for SEO & accessibility
 
-### 🔊 Audio (`<audio>`)
+### Audio (`<audio>`)
 
 * Plays sound files
 * `controls` is important
 
-### 🎥 Video (`<video>`)
+### Video (`<video>`)
 
 * Plays video directly
 * `poster`, `muted`, `autoplay` supported
 
-### 🖥 Iframe (`<iframe>`)
+### Iframe (`<iframe>`)
 
 * Embeds external content
 * Used for YouTube, Maps
