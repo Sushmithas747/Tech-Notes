@@ -36,7 +36,7 @@ HTML tells the browser **what content exists** on the page, not how it should lo
 
 ### Full Form of HTML
 
-**HTML** stands for 👉 **HyperText Markup Language**
+**HTML** stands for --> **HyperText Markup Language**
 
 * **HyperText** → Text that contains links to other text or pages
 * **Markup** → Uses tags to mark elements
