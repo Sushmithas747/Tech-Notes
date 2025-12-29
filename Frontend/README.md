@@ -176,16 +176,109 @@ NOTE: Anchor tags are inline elements by default.
 
 ## TABLE TAGS
 
-```html
-<table>
-  <tr>
-    <th>Header</th>
-    <td>Data</td>
-  </tr>
-</table>
+HTML tables are used to display data in a row-and-column (tabular) format.
+Table structure is defined using table, tr (row), th (header cell), and td (data cell) tags, and tables should be used only for tabular data, not for page layout.
 
-* `<th>` – semantic meaning
-* `<thead>`, `<tbody>`, `<tfoot>` – structure
+## FORMS
 
---------
+Used to collect user input.
+
+**Attributes:**
+
+* `action` – URL
+* `method` – GET / POST
+
+
+CSS (Cascading Style Sheets)
+
+### What is CSS?
+
+CSS controls:
+
+* Colors
+* Fonts
+* Layout
+* Spacing
+* Positioning
+* Animations
+
+### History of CSS
+
+* 1996 – Introduced by Håkon Wium Lie
+* CSS1 – Basic styling
+* CSS2 – Positioning
+* CSS3 – Flexbox, Grid, Animations
+
+### Characteristics of CSS
+
+* Separates content from design
+* Improves reusability
+* Reduces repetition
+* Makes websites responsive
+
+### Ways to Add CSS
+
+* Inline
+* Internal
+* External (Best practice)
+
+
+## JavaScript
+
+### Definition
+
+JavaScript is a scripting or programming language used to add functionality to web pages.
+
+### History
+
+* Invented by Brenden Eich (1995)
+* First name: **MOCHA → LiveScript → JavaScript**
+* Standardized as **ECMAScript**
+* ES6 (2015), Current: **ES14 (2023)**
+
+### Characteristics of JavaScript
+
+* High-level
+* Interpreted
+* Single-threaded
+* Loosely typed
+* Dynamic
+* Synchronous
+* Object-based
+
+### Ways to Add JavaScript
+
+* Internal
+* External
+
+### Output Methods
+
+* `console.log()`
+* `console.error()`
+* `console.warn()`
+* `document.write()`
+* `alert()`
+* `confirm()`
+* `prompt()`
+
+### Data Types
+
+* Primitive
+* Non-Primitive
+
+### Functions, Scope, DOM, Events, Storage, Promises, Async/Await
+
+## Possible Interview Questions on WEB TECH
+
+### HTML
+
+(List preserved)
+
+### CSS
+
+(List preserved)
+
+### JavaScript
+
+(List preserved)
 
