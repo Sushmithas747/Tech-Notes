@@ -12,6 +12,9 @@ technical notes across multiple domains.
 - Advanced Java
 - SQL
 - Backend & Frameworks
+- SDLC
+- Agile
+- scrum
 
 ### Purpose
 - Long-term reference
